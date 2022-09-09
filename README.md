@@ -22,5 +22,8 @@
 ### DevCard
 <a href="https://app.daily.dev/BrandonPlays"><img src="https://api.daily.dev/devcards/4351400a6ba24e109ae5b8f9a99f72aa.png?r=zny" width="400" alt="Brandon Olivares's Dev Card"/></a>
 
+### Now Playing On Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=brandonolivares123&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=BrandonPlays&icon=0&color=0)](https://visitcount.itsvg.in)
