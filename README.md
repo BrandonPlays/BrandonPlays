@@ -16,10 +16,8 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### DevCard
 <a href="https://app.daily.dev/BrandonPlays"><img src="https://api.daily.dev/devcards/4351400a6ba24e109ae5b8f9a99f72aa.png?r=zny" width="400" alt="Brandon Olivares's Dev Card"/></a>
 
-### Now Playing On Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=brandonolivares123&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/426874451162955779)](https://discord.com/users/426874451162955779)
