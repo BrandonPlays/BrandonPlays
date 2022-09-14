@@ -16,9 +16,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ### DevCard
 <a href="https://app.daily.dev/BrandonPlays"><img src="https://api.daily.dev/devcards/4351400a6ba24e109ae5b8f9a99f72aa.png?r=zny" width="400" alt="Brandon Olivares's Dev Card"/></a>
 
