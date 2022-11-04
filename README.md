@@ -21,5 +21,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=brandonolivares123&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/426874451162955779)](https://discord.com/users/426874451162955779)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c181885-a895-4eda-bbb7-882329e77bcb/deploy-status)](https://app.netlify.com/sites/brandonplays/deploys)
 ---
 [![](https://visitcount.itsvg.in/api?id=BrandonPlays&icon=0&color=0)](https://visitcount.itsvg.in)
