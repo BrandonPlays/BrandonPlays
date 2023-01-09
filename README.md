@@ -24,4 +24,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BrandonPlays&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?BrandonPlays&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?brandonplays&label=PROFILE+VIEWS)
