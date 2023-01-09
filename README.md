@@ -24,3 +24,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BrandonPlays&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+![](https://hit.yhype.me/github/profile?user_id=68233570)
