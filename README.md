@@ -17,4 +17,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
-[![Discord Presence](https://lanyard.cnrad.dev/api/426874451162955779)](https://discord.com/users/426874451162955779) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=brandonolivares123)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=brandonolivares123) [![Discord Presence](https://lanyard.cnrad.dev/api/426874451162955779)](https://discord.com/users/426874451162955779)
