@@ -20,6 +20,3 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=brandonolivares123&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/426874451162955779)](https://discord.com/users/426874451162955779)
-
----
-![](https://komarev.com/ghpvc/?BrandonPlays&style=flat-square)
