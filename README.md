@@ -22,4 +22,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/426874451162955779)](https://discord.com/users/426874451162955779)
 
-[![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=brandonolivares123&count={count})
+![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=brandonolivares123&count={count})
